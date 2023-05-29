@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meroo893
-- 👀 I’m interested in cars, football, maths, LoL
-- 🌱 I’m currently learning c++, python and basically everything
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in cars, football, maths
+- 🌱 I’m currently learning c++ and python
 - 📫 How to reach me mertkamber2003@gmail.com
 
 <!---
