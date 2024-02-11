@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meroo893
 - 👀 I’m interested in cars, football, maths
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning postgres
 - 📫 How to reach me mertkamber2003@gmail.com
 
 <!---
